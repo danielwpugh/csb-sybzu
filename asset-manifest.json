@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://danielwpugh.github.io/csb-sybzu/static/css/main.56483f35.chunk.css",
+    "main.js": "https://danielwpugh.github.io/csb-sybzu/static/js/main.9a31a834.chunk.js",
+    "main.js.map": "https://danielwpugh.github.io/csb-sybzu/static/js/main.9a31a834.chunk.js.map",
+    "runtime-main.js": "https://danielwpugh.github.io/csb-sybzu/static/js/runtime-main.2ddcebc1.js",
+    "runtime-main.js.map": "https://danielwpugh.github.io/csb-sybzu/static/js/runtime-main.2ddcebc1.js.map",
+    "static/js/2.26b58f02.chunk.js": "https://danielwpugh.github.io/csb-sybzu/static/js/2.26b58f02.chunk.js",
+    "static/js/2.26b58f02.chunk.js.map": "https://danielwpugh.github.io/csb-sybzu/static/js/2.26b58f02.chunk.js.map",
+    "index.html": "https://danielwpugh.github.io/csb-sybzu/index.html",
+    "static/css/main.56483f35.chunk.css.map": "https://danielwpugh.github.io/csb-sybzu/static/css/main.56483f35.chunk.css.map",
+    "static/js/2.26b58f02.chunk.js.LICENSE.txt": "https://danielwpugh.github.io/csb-sybzu/static/js/2.26b58f02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ddcebc1.js",
+    "static/js/2.26b58f02.chunk.js",
+    "static/css/main.56483f35.chunk.css",
+    "static/js/main.9a31a834.chunk.js"
+  ]
+}
